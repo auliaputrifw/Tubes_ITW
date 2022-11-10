@@ -1,0 +1,44 @@
+.slider h3, .slider h5{
+	text-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+}
+
+body{
+	font-family: 'Times New Roman';
+	font-size: 17px;
+}
+
+.parallax-container{
+	height: 250px;
+	padding-top: 30px;
+}
+
+.parallax-container hr{
+	border: 1px solid black;
+	width: 300px;
+}
+
+.parallax img{
+	opacity: 0.6 !important;
+}
+
+.rocket img{
+	width: 200px;
+	height: 300px;
+}
+
+.about hr, .history hr, .contact hr{
+	width: 200px;
+}
+
+.launch hr{
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+.launch li{
+	padding-top: 10px;
+}
+
+section, footer{
+	padding: 20px 0;
+}
